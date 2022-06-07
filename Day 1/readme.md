@@ -9,6 +9,8 @@
 
 ## Band Name Generator
 
-![band name generator](band_name_generator.gif)
+![band name generator](band_name_.gif)
 
-https://repl.it/@lenargasimov/band-name-generator-end
+![band name generator](bandname.PNG)
+
+
