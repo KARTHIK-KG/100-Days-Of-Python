@@ -2,19 +2,19 @@
 
 # Exercise 1
 
-![Exercise 1](exercise1.png)
+![](exercise1.png)
 
 # Exercise 2
 
-![2](exercise2.PNG)
+![](exercise2.PNG)
 
 # Exercise 3
 
-![3](exercise3.png)
+![](exercise3.png)
 
 # Exercise 4
 
-![4](exercise4.png)
+![](exercise4.png)
 
 ## Band Name Generator
 
