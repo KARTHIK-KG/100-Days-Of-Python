@@ -1,1 +1,14 @@
-hi
+# Day 1 - Working with Variables in Python to Manage Data
+
+## Exercise
+
+- Exercise 1
+- Exercise 2
+- Exercise 3
+- Exercise 4
+
+## Band Name Generator
+
+![band name generator](band_name_generator.gif)
+
+https://repl.it/@lenargasimov/band-name-generator-end
