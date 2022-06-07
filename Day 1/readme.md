@@ -9,7 +9,7 @@
 
 ## Band Name Generator
 
-![band name generator](/Day 1/band_name_.gif)
+![band name generator](Day 1/band_name_.gif)
 
 ![band name generator](bandname.PNG)
 
