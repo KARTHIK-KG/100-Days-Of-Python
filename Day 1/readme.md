@@ -10,7 +10,7 @@
 ## Band Name Generator
 
 ![band name generator](Band_Name_.gif)
-
+---
 ![Code](bandname.png)
 
 
