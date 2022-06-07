@@ -2,7 +2,7 @@
 
 ## Exercise
 
-- Exercise 1
+
 ![Exercise 1](Exercise 1.png)
 - Exercise 2
 ![2](Exercise 2.PNG)
