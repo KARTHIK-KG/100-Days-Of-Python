@@ -3,9 +3,9 @@
 ## Exercise
 
 - Exercise 1
-![1](Exercise 1.png)
+![Drag Racing](Dragster.jpg)
 - Exercise 2
-![2](Exercise 2.png)
+![2](Exercise 2.PNG)
 - Exercise 3
 ![3](Exercise 3.png)
 - Exercise 4
