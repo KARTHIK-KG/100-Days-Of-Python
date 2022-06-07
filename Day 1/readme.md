@@ -3,9 +3,13 @@
 ## Exercise
 
 - Exercise 1
+![](Exercise 1.png)
 - Exercise 2
+![](Exercise 2.png)
 - Exercise 3
+![](Exercise 3.png)
 - Exercise 4
+![](Exercise 4.png)
 
 ## Band Name Generator
 
