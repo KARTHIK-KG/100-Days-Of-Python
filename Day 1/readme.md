@@ -11,6 +11,7 @@
 
 ![band name generator](Band_Name_.gif)
 ---
+# Code
 ![Code](bandname.png)
 
 
