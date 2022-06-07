@@ -11,6 +11,6 @@
 
 ![band name generator](Band_Name_.gif)
 
-![band name generator](bandname.PNG)
+![band name generator](bandname.png)
 
 
