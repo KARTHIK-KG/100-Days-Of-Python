@@ -3,9 +3,9 @@
 ## Exercise
 
 
-![Exercise 1](Exercise 1.png)
+![Exercise 1](exercise1.png)
 - Exercise 2
-![2](Exercise 2.PNG)
+![2](exercise2.PNG)
 - Exercise 3
 ![3](Exercise 3.png)
 - Exercise 4
